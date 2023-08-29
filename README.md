@@ -4,7 +4,7 @@
 
 ¡Bienvenido a mi perfil! Estoy incursionando en el mundo de la programación y desarrollo web por mi cuenta. Mi trasfondo incluye experiencia en desarrollo web y programación, y también me intriga el mundo de la ingeniería en higiene y seguridad. Como ingeniera en higiene y seguridad, entiendo la importancia de crear entornos laborales seguros para todos.
 
-## Proyecto "hello-world"
+## Proyecto *hello-world*
 
 Este repositorio es parte de mi práctica para el proyecto *hello-world* en mi curso de **Sistema de control de versiones** en Classroom de Codemia. Aquí estaré trabajando en ejercicios y tareas relacionadas con el control de versiones para mejorar mis habilidades en el ámbito de la programación y el desarrollo web.
 
